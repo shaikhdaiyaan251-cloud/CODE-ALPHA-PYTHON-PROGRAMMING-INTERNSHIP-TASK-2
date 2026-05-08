@@ -218,7 +218,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **DAIYAAN SHAIKH** – [LinkedIn](https://www.linkedin.com/in/daiyaan-shaikh-159909377?utm_source=share_via&utm_content=profile&utm_medium=member_android) – [GitHub](https://github.com/shaikhdaiyaan251-cloud)  
 
-Project Link: [[https://github.com/shaikhdaiyaan251-cloud/CODE-ALPHA-PYTHON-PROGRAMMING-INTERNSHIP-TASK-1](https://github.com/shaikhdaiyaan251-cloud/CODE-ALPHA-PYTHON-PROGRAMMING-INTERNSHIP-TASK-2)]
+Project Link: [[https://github.com/shaikhdaiyaan251-cloud/CODE-ALPHA-PYTHON-PROGRAMMING-INTERNSHIP-TASK-2](https://github.com/shaikhdaiyaan251-cloud/CODE-ALPHA-PYTHON-PROGRAMMING-INTERNSHIP-TASK-2)]
 
 
 ---
